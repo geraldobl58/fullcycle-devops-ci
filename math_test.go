@@ -1,4 +1,4 @@
-package mainers
+package main
 
 import "testing"
 
